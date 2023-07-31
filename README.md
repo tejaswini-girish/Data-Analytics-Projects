@@ -23,6 +23,12 @@ How?
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
-## Project 2 : Coffee Sales Analysis 
+## Project 2 : FIFA Players Analysis
+
+1. Cleaning and Tranforming Data using Pandas
+2. Analyse
+3. Visualise using Matplotlib
+
+## Project 3 : Coffee Sales Analysis 
 
 Ongoing...Will be updating soon
