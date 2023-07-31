@@ -22,3 +22,7 @@ How?
 - Using groupby to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
+
+## Project 2 : Coffee Sales Analysis 
+
+Ongoing...Will be updating soon
