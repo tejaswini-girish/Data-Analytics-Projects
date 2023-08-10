@@ -10,10 +10,7 @@ The Sales Analysis project involved cleaning and analyzing sales data to extract
 
 ## Project 2 : FIFA Players Analysis
 
-1. Cleaning and Tranforming Data using Pandas
-2. Analyse
-3. Visualise using Matplotlib
-
+Soccer, also known as football, is a global phenomenon that transcends cultures and borders. It is a sport that unites people, ignites passion, and generates a wealth of data. As a data analyst, I have delved into the FIFA Players dataset, an expansive collection of information about soccer players from around the world, to extract hidden gems of insights that illuminate the world of the beautiful game.
 
 ## Project 3 : Coffee Sales Analysis 
 
