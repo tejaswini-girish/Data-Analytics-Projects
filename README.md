@@ -31,11 +31,9 @@ How?
 
 ## Project 3 : Coffee Sales Analysis 
 
-Excel Dashboard to analyse the Sales based on variety of metrics. Feel free to read my [blogpost](https://tejaswinigirish.wordpress.com/2023/08/02/excel-coffee-sales-dasboard-project/)
+In my project "Coffee Sales Dashboard," I embarked on a journey to harness the power of Excel as a potent tool for data analysis and visualization. This project underscores my expertise in employing Excel's advanced functions and features to uncover meaningful insights from complex datasets.
 
 <img width="758" alt="Screenshot 2023-08-02 125944" src="https://github.com/tejaswini-girish/Data-Analytics-Projects/assets/136778982/74ed0c09-6684-48de-a0db-09067bc329c9">
-
-<img width="361" alt="image" src="https://github.com/tejaswini-girish/Data-Analytics-Projects/assets/136778982/f30625fc-c885-4e57-922f-c18018950aaf">
 
 ## LearningExercises - Power BI
 
