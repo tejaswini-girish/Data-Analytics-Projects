@@ -53,7 +53,7 @@ In the Coffee Sales Dashboard project, Excel became a storytelling tool. By weav
 
 
 
-I have also written a blogpost to give a step by step project walkthrough. Kindly check out! 
+I have also written a [blogpost](https://tejaswinigirish.wordpress.com/2023/08/02/excel-coffee-sales-dasboard-project/) to give a step by step project walkthrough. Kindly check out! 
 
 
 
