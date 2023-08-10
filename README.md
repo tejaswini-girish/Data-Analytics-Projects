@@ -7,8 +7,6 @@ Kindly check the respective folders above to find detailed descriptions
 
 The Sales Analysis project involved cleaning and analyzing sales data to extract valuable insights and answer key business questions. By applying data cleaning techniques, aggregation, and visualization methods, this project aimed to provide actionable information to improve sales strategies.
 
-<img width="421" alt="image" src="https://github.com/tejaswini-girish/Data-Analytics-Projects/assets/136778982/344d25fb-40dd-4a74-abdc-1ce58a77dd67"><img width="539" alt="image" src="https://github.com/tejaswini-girish/Data-Analytics-Projects/assets/136778982/7343070d-f789-499a-b101-349e2471b85d">
-
 
 ## Project 2 : FIFA Players Analysis
 
@@ -17,13 +15,9 @@ The Sales Analysis project involved cleaning and analyzing sales data to extract
 3. Visualise using Matplotlib
 
 
-
 ## Project 3 : Coffee Sales Analysis 
 
 In my project "Coffee Sales Dashboard," I embarked on a journey to harness the power of Excel as a potent tool for data analysis and visualization. This project underscores my expertise in employing Excel's advanced functions and features to uncover meaningful insights from complex datasets.
-
-<img width="758" alt="Screenshot 2023-08-02 125944" src="https://github.com/tejaswini-girish/Data-Analytics-Projects/assets/136778982/74ed0c09-6684-48de-a0db-09067bc329c9">
-
 
 
 ## LearningExercises - Power BI
