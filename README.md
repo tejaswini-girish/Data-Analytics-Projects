@@ -1,27 +1,14 @@
 # Data-Analytics-Projects
-Exploring data and analysing it using different tools such as Pandas, Matplotlib...etc
+The following data analyst projects highlights my diverse skill set, ranging from sales analysis to customer segmentation and beyond. Each project demonstrates how I've tackled unique challenges, resolved data discrepancies, and translated data-driven insights into strategic recommendations. With a commitment to accuracy, clarity, and actionable results, I aim to contribute meaningful value to organizations seeking to harness the power of their data.
+
+Kindly check the respective folders above to find detailed descriptions
 
 ## Project 1 : Sales Analysis
 
-Cleaning our data...
-1. Drop NaN values from DataFrame
-2. Removing rows based on a condition
-3. Change the type of columns (to_numeric, to_datetime, astype)
+The Sales Analysis project involved cleaning and analyzing sales data to extract valuable insights and answer key business questions. By applying data cleaning techniques, aggregation, and visualization methods, this project aimed to provide actionable information to improve sales strategies.
 
-Questions:
-- What was the best month for sales? How much was earned that month?
-- What city sold the most product?
-- What time should we display advertisemens to maximize the likelihood of customer’s buying product?
-- What products are most often sold together?
+<img width="421" alt="image" src="https://github.com/tejaswini-girish/Data-Analytics-Projects/assets/136778982/344d25fb-40dd-4a74-abdc-1ce58a77dd67"><img width="539" alt="image" src="https://github.com/tejaswini-girish/Data-Analytics-Projects/assets/136778982/7343070d-f789-499a-b101-349e2471b85d">
 
-How?
-- Concatenating multiple csvs together to create a new DataFrame (pd.concat)
-- Adding columns
-- Parsing cells as strings to make new columns (.str)
-- Using the .apply() method
-- Using groupby to perform aggregate analysis
-- Plotting bar charts and lines graphs to visualize our results
-- Labeling our graphs
 
 ## Project 2 : FIFA Players Analysis
 
@@ -29,11 +16,15 @@ How?
 2. Analyse
 3. Visualise using Matplotlib
 
+
+
 ## Project 3 : Coffee Sales Analysis 
 
 In my project "Coffee Sales Dashboard," I embarked on a journey to harness the power of Excel as a potent tool for data analysis and visualization. This project underscores my expertise in employing Excel's advanced functions and features to uncover meaningful insights from complex datasets.
 
 <img width="758" alt="Screenshot 2023-08-02 125944" src="https://github.com/tejaswini-girish/Data-Analytics-Projects/assets/136778982/74ed0c09-6684-48de-a0db-09067bc329c9">
+
+
 
 ## LearningExercises - Power BI
 
@@ -42,5 +33,7 @@ Exercises I completed for an online course [Analysing and Visualising Data with 
    - Visualisations
    - Power Query
    - Measures
+
+2. Week2 - On Going
   
 
