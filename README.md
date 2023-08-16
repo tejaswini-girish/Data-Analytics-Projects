@@ -1,7 +1,7 @@
 # Data-Analytics-Projects
 The following data analyst projects highlights my diverse skill set, ranging from sales analysis to customer segmentation and beyond. Each project demonstrates how I've tackled unique challenges, resolved data discrepancies, and translated data-driven insights into strategic recommendations. With a commitment to accuracy, clarity, and actionable results, I aim to contribute meaningful value to organizations seeking to harness the power of their data.
 
-Kindly check the respective folders above to find detailed descriptions
+***Kindly check the respective folders above to find detailed descriptions***
 
 ## Project 1 : Sales Analysis
 
