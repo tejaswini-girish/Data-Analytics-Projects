@@ -16,3 +16,6 @@ Create a Power BI report analyzing population and GDP for US states since 1997. 
 - Power BI Desktop
 - Map visual
 - Slicers and/or filters
+
+# Week 3 Assignment
+Ongoing
