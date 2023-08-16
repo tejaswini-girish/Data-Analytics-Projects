@@ -19,12 +19,5 @@ In my project "Coffee Sales Dashboard," I embarked on a journey to harness the p
 
 ## LearningExercises - Power BI
 
-Exercises I completed for an online course [Analysing and Visualising Data with Power BI]([url](https://www.edx.org/learn/data-analysis/davidson-college-data-analysis-in-power-bi)) on Edx.
-1. Week1 - Getting Started
-   - Visualisations
-   - Power Query
-   - Measures
-
-2. Week2 - On Going
-  
+Exercises I completed for an online course [Analysing and Visualising Data with Power BI]([url](https://www.edx.org/learn/data-analysis/davidson-college-data-analysis-in-power-bi)) on Edx. This four-week course is a beginner's guide to working with data in Power BI 
 
