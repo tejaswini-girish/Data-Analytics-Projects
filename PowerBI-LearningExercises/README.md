@@ -18,4 +18,8 @@ Create a Power BI report analyzing population and GDP for US states since 1997. 
 - Slicers and/or filters
 
 # Week 3 Assignment
-Ongoing
+Create a Power BI report that visualizes city-wide budgets and actuals. Find out which departments are generating the most revenue or spending the most money, and which departments have gone furthest over their budgets.
+
+## Techniques used:
+- Duplicate queries and merge queries
+- Hierarchies & Drill down
